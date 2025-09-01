@@ -15,7 +15,7 @@
 
 👀 Highlights:
 1. Real-time conference countdown with https://ccfddl.com/ from the local, without open the webpage
-2. Lightweight and unobtrusive status bar app
+2. Swift native development, lightweight and unobtrusive status bar app
 3. Auto-updating conference information
 
 ![image_0](./images/image_0.png)

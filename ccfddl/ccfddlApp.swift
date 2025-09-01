@@ -104,6 +104,6 @@ struct MyMenuBarApp: App {
         let minutes = components.minute ?? 0
         let seconds = components.second ?? 0
 
-        countdownText = String(format: "%02dd %02dh %02dm", days, hours, minutes)
+        countdownText = String(format: "%02dd %02dh", days, hours)
     }
 }

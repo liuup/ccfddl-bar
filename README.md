@@ -14,7 +14,7 @@
 🔥 Follow the worldwide conference countdown in real time on your MacBook status bar
 
 👀 Highlights:
-1. Real-time conference countdown with https://ccfddl.com/, without open the web
+1. Real-time conference countdown with https://ccfddl.com/ from the local, without open the webpage
 2. Lightweight and unobtrusive status bar app
 3. Auto-updating conference information
 
@@ -25,7 +25,7 @@
 # Installation
 1. Download the lastest version from [releases](https://github.com/liuup/ccfddl-bar/releases)
 2. unzip the downloaded file
-3. drag the `ccfddl-bar.app` to your Applications folder
+3. Double-click or drag the `ccfddl-bar.app` to your Applications folder
 
 # Requirements
 - macOS 13.5 (Ventura) or later

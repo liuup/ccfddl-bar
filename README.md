@@ -8,6 +8,10 @@
 	</a>
 </p>
 
+<p align="center">
+    <a href="./README.md">English</a> | <a href="./README_zh.md">中文</a>
+</p>
+
 > This project is still under development and at the beta version by [liuup](https://github.com/liuup). Some features may not work as expected. -- Sep 1st 2025
 
 # ccfddl-bar
@@ -32,7 +36,7 @@
 - An active internet connection
 
 # TODO
-- [ ] Add the Chinese README
+- [x] Add the Chinese README
 - [ ] Modify the conferences list UI for better user experience
 - [ ] Some conference deadlines may not be aligned with https://ccfddl.com/, fix the time resolver.
 

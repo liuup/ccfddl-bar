@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="./README.md">English</a> | <a href="./README_zh.md">中文</a>
+    <a href="https://github.com/liuup/ccfddl-bar">English</a> | 中文
 </p>
 
 > 本项目目前由 [liuup](https://github.com/liuup) 进行维护和开发，并处于测试阶段，某些功能可能无法按预期工作。-- 2025年9月1日
